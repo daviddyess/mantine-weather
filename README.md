@@ -1,3 +1,5 @@
+A fork of react-weather-widget to support Mantine and SSR. A work in progress. Original repo's README follows:
+
 <h1 align="center"> React-Weather-Widget  </h1>
 <div align="center">
 
